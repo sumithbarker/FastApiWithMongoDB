@@ -1,0 +1,14 @@
+certifi==2025.11.12
+charset-normalizer==3.4.4
+django-dotenv==1.4.2
+idna==3.11
+jproperties==2.1.2
+pyfakefs==5.9.3
+pysonar==1.2.1.3951
+pytz==2023.3.post1
+PyYAML==6.0.3
+requests==2.32.5
+responses==0.25.8
+six==1.17.0
+tomli==2.2.1
+urllib3==2.5.0
